@@ -1,5 +1,5 @@
 # Previsão de Séries Temporais
-Esse repositório traz scripts Python (feitos para Jupyter Notebook), os quais podem ser executados via Google Colab. Todos os scripts são destinados à previsão de séries temporais relacionados à Comercialização de Energia Elétrica.
+Esse repositório traz scripts Python (feitos para Jupyter Notebook e Google Colab), os quais podem ser executados via Google Colab. Todos os scripts são destinados à previsão de séries temporais relacionados à Comercialização de Energia Elétrica.
 
 Dataset1 --> Contém dados de preço de energia elétrica horários (cerca de 2 meses)
 
