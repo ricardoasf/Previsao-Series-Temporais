@@ -21,7 +21,8 @@ Regressão Linear --> Executa o modelo de Regressão Linear como um algoritmo de
 
 Regressão Ridge --> Executa o modelo de Regressão Linear com Regularização Ridge como um algoritmo de previsão para uma série temporal de demanda de energia elétrica (Dataset2.csv), o qual emprega o mês mais antigo como ajuste do modelo e os dias do mês mais recente como alvos da previsão.
 
+Regressão Polinomial --> Executa o modelo de Regressão Polinomial como um algoritmo de previsão para uma série temporal de fechamento de preço de energia elétrica (Dataset2.csv), o qual emprega o mês mais antigo como ajuste do modelo e os dias do mês mais recente como alvos da previsão.
+
 Dataset3 --> Contém dados de fechamento de ativo de mercado financeiro com discretização diária (cerca de 11 anos).
 
 Regressão LASSO --> Executa o modelo de Regressão Linear com Regularização LASSO como um algoritmo de previsão para uma série temporal de fechamento de ativo no mercado financeiro (Dataset3.csv), o qual emprega os anos mais antigos como ajuste do modelo e os anos mais recente como alvos da previsão.
-
