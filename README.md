@@ -18,3 +18,5 @@ SARIMA --> Executa o modelo Sazonal Autorregressivo Integrado de Médias Móveis
 Dataset2 --> Contém dados de demanda, dólar, geração eólica, balanço e preço de energia elétrica horários (cerca de 2 meses).
 
 Regressão Linear --> Executa o modelo de Regressão Linear como um algoritmo de previsão para uma série temporal de demanda de energia elétrica (Dataset2.csv), o qual emprega o mês mais antigo como ajuste do modelo e os dias do mês mais recente como alvos da previsão.
+
+Regressão Ridge --> Executa o modelo de Regressão Linear com Regularização Ridge como um algoritmo de previsão para uma série temporal de demanda de energia elétrica (Dataset2.csv), o qual emprega o mês mais antigo como ajuste do modelo e os dias do mês mais recente como alvos da previsão.
