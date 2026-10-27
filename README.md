@@ -33,3 +33,4 @@ AnaliseDadosFaltantes --> Faz distintos tratamentos de dados faltantes no preço
 
 SelecaoFeatures --> Faz uma análise de lags do preço da energia elétrica (Dataset4.csv) em função de ACF, PACF e Matriz de Correlação para compreender como essas ferramentas auxiliam na seleção de features na previsão de séries temporais.
 
+ExtracaoSelecaoFeatures_MediaMovel --> Realiza o cálculo de Média Móvel como forma de extrair features do preço da energia elétrica (Dataset4.csv) e análise tanto a Matriz de Correlação quanto os indicadores MAE, RMSE e R2 em relação ao desempenho de modelos preditivos.
