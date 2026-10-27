@@ -30,3 +30,6 @@ Regressão LASSO --> Executa o modelo de Regressão Linear com Regularização L
 Dataset4 --> Contém dados de preço de energia elétrica horários (cerca de 2 meses), porém com Dados Faltantes (Missing Data).
 
 AnaliseDadosFaltantes --> Faz distintos tratamentos de dados faltantes no preço de energia elétrica (Dataset4.csv).
+
+SelecaoFeatures --> Faz uma análise de lags do preço da energia elétrica (Dataset4.csv) em função de ACF, PACF e Matriz de Correlação para compreender como essas ferramentas auxiliam na seleção de features na previsão de séries temporais.
+
