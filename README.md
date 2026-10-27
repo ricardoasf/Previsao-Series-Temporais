@@ -26,3 +26,7 @@ Regressão Polinomial --> Executa o modelo de Regressão Polinomial como um algo
 Dataset3 --> Contém dados de fechamento de ativo de mercado financeiro com discretização diária (cerca de 11 anos).
 
 Regressão LASSO --> Executa o modelo de Regressão Linear com Regularização LASSO como um algoritmo de previsão para uma série temporal de fechamento de ativo no mercado financeiro (Dataset3.csv), o qual emprega os anos mais antigos como ajuste do modelo e os anos mais recente como alvos da previsão.
+
+Dataset4 --> Contém dados de preço de energia elétrica horários (cerca de 2 meses), porém com Dados Faltantes (Missing Data).
+
+DadosFaltantes --> Faz distintos tratamentos de dados faltantes no preço de energia elétrica (Dataset4.csv).
