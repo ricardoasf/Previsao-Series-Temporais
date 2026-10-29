@@ -38,3 +38,9 @@ SelecaoFeatures --> Faz uma análise de lags do preço da energia elétrica (Dat
 ExtracaoSelecaoFeatures_MediaMovel --> Realiza o cálculo de Média Móvel como forma de extrair features do preço da energia elétrica (Dataset4.csv) e análise tanto a Matriz de Correlação quanto os indicadores MAE, RMSE e R2 em relação ao desempenho de modelos preditivos.
 
 RegressionTree --> Executa o modelo de Árvore de Regressão como um algoritmo de previsão para uma série temporal de preço de energia elétrica (Dataset2.csv), realizando Limpeza de Dados e Seleção de Features.
+
+MLP --> Executa o modelo de Redes Neurais (do tipo MLP) como um algoritmo de previsão para uma série temporal de preço de energia elétrica (Dataset2.csv), realizando Limpeza de Dados e Seleção de Features.
+
+LSTM --> Executa o modelo de Redes Neurais (do tipo LSTM) como um algoritmo de previsão para uma série temporal de preço de energia elétrica (Dataset2.csv), realizando Limpeza de Dados e Seleção de Features.
+
+
