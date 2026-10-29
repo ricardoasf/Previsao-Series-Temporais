@@ -36,3 +36,5 @@ AnaliseOutliers --> Analisa Outliers na série de preço de energia elétrica (D
 SelecaoFeatures --> Faz uma análise de lags do preço da energia elétrica (Dataset4.csv) em função de ACF, PACF e Matriz de Correlação para compreender como essas ferramentas auxiliam na seleção de features na previsão de séries temporais.
 
 ExtracaoSelecaoFeatures_MediaMovel --> Realiza o cálculo de Média Móvel como forma de extrair features do preço da energia elétrica (Dataset4.csv) e análise tanto a Matriz de Correlação quanto os indicadores MAE, RMSE e R2 em relação ao desempenho de modelos preditivos.
+
+RegressionTree --> Executa o modelo de Árvore de Regressão como um algoritmo de previsão para uma série temporal de preço de energia elétrica (Dataset2.csv), realizando Limpeza de Dados e Seleção de Features.
